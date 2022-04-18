@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Pascal, out here trying to solve problems with my code.
+Hi there 👋 I'm Pascal, out here trying to solve problems with my code.
 
-## A Dad and Farmer
+A Dad and Farmer
 🌱 I’m currently learning everything 🤣
 
 👯 I’m looking to collaborate with other developers
@@ -23,7 +23,7 @@
 
 📄 Know about my experiences https://www.linkedin.com/in/pascal-ambogo-mudimba-383051113/
 
-##LANGUAGES AND TOOLS
+LANGUAGES AND TOOLS
 
 
 
@@ -31,10 +31,8 @@
 [<img align="left" alt="Java" width="30px" src="https://camo.githubusercontent.com/2e496d4bfc6f753ddca87b521ce95c88219f77800212ffa6d4401ad368c82170/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d6f726967696e616c2e737667" />]
 [<img align="left" alt="Java" width="30px" src="https://camo.githubusercontent.com/442c452cb73752bb1914ce03fce2017056d651a2099696b8594ddf5ccc74825e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667" />]
 [<img align="left" alt="Java" width="30px" src="https://camo.githubusercontent.com/85a3f21551aec9137fd7627cd9b4ce0f7cf844ab80f26e7f091cc3c39d117e2a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6761747362792f6761747362792d6f726967696e616c2e737667" />]
-[<img align="left" alt="Java" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" />][blog]
+[<img align="left" alt="Java" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" />]
 [<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/terminal-dark.svg" />]
-[<img align="left" alt="Java" width="30px" src="" />]
-[<img align="left" alt="Java" width="30px" src="" />]
 [<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />]
 [<img align="left" alt="Java" width="30px" src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" />]
 [<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />]
@@ -52,19 +50,4 @@
 [<img align="left" alt="Java" width="30px" src="https://camo.githubusercontent.com/dd4b2422ed3bfc9da88c43d18550375c66f9584327dff7ecc19315ce50b96f07/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667" />]
 [<img align="left" alt="Java" width="30px" src="https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667" />]
 [<img align="left" alt="Java" width="30px" src="https://camo.githubusercontent.com/b3a1cdd20d0f308634ddd4598cdaa729c2d77047f51e66fa7206b9b4bac94c23/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61726475696e6f2d312e737667" />]
-
-[<img align="left" alt="Java" width="30px" src="" />][blog]
-
-[<img align="left" alt="Java" width="30px" src="" />][blog]
-
-[<img align="left" alt="Java" width="30px" src="" />][blog]
-
-[<img align="left" alt="Java" width="30px" src="" />][blog]
-
-[<img align="left" alt="Java" width="30px" src="" />][blog]
-
-[<img align="left" alt="Java" width="30px" src="" />][blog]
-
-
-
-##CONNECT WITH ME
+ CONNECT WITH ME
