@@ -3,7 +3,7 @@ Hi there 👋 I'm Pascal, out here trying to solve problems with my code.
 A Dad and Farmer
 🌱 I’m currently learning everything 🤣
 
-👯 I’m looking to collaborate with other developers
+👯 I’m looking to collaborate with R developers
 
 🥅 2022 Goals: Learn more about web3
 
@@ -17,7 +17,7 @@ A Dad and Farmer
 
 📝 I regularly write articles on https://medium.com/@mudimbapascal
 
-💬 Ask me about Data Rights, DAOs, Pandas, Matplotlib, OpenCV and Haar Cascades
+💬 Ask me about Data Protection and Data Rights in Kenya, DAOs, Pandas, Matplotlib, OpenCV and Haar Cascades
 
 📫 How to reach me mudimbapascal@gmail.com
 
