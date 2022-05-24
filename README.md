@@ -42,5 +42,5 @@ LANGUAGES AND TOOLS
 [<img align="left" alt="Java" width="30px" src="https://camo.githubusercontent.com/3aa42ee93eafa8f736bac662e8ca536350dad790ba36f2f0cb1783aa2be42f6d/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6e6578746a732d322e737667" />]
 [<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />]
 [<img align="left" alt="Java" width="30px" src="https://camo.githubusercontent.com/5fa137d222dde7b69acd22c6572a065ce3656e6ffa1f5e88c1b5c7a935af3cc6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" />]
-[<img align="left" alt="Java" width="30px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.clipartmax.com%2Fmiddle%2Fm2H7K9G6b1G6G6m2_azure-sql-database-icon%2F&psig=AOvVaw1XAov5P7MtQ8wyHjzxKV_a&ust=1653478989282000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCODL0fCL-PcCFQAAAAAdAAAAABAD" />]
+[<img align="left" alt="Java" width="30px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3APython.svg&psig=AOvVaw1vrdupZ1tn4Qol6QCFmNW3&ust=1653479014536000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNiP38GM-PcCFQAAAAAdAAAAABAD" />]
  CONNECT WITH ME
