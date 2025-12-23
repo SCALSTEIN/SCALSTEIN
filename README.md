@@ -51,8 +51,8 @@ I stay current with research trends to apply practical insights in Generative AI
 ### 📊 **GitHub Statistics**
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" height="160" alt="Pascal's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" height="160" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=SCALSTEIN&show_icons=true&theme=radical&hide_border=true" height="160" alt="Pascal's Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SCALSTEINE&layout=compact&theme=radical&hide_border=true" height="160" alt="Top Languages" />
 </div>
 
 ---
@@ -70,3 +70,4 @@ I am always open to discussing collaboration in AI research, secure systems desi
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
+
