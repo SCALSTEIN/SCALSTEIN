@@ -1,46 +1,62 @@
-Hi there 👋 I'm Pascal, out here trying to solve problems with my code.
+# Hi there, I'm [Your Name] 👋
+### 🧠 Machine Learning Engineer | Generative AI Specialist | Embedded Systems Enthusiast
 
-A Dad and Farmer
-🌱 I’m currently learning everything 🤣
+I stand at the intersection of **High-Level Intelligence** and **Low-Level Logic**. I specialize in designing production-grade LLM systems, sophisticated RAG architectures, and autonomous agents, with a deep passion for the silicon that powers them.
 
-👯 I’m looking to collaborate with R developers
+---
 
-🥅 2022 Goals: Learn more about web3
+### 🛠️ Technical Arsenal
 
-⚡ Fun fact: I play lots of games, try me !
+| **Domain** | **Technologies & Tools** |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Verilog](https://img.shields.io/badge/Verilog-B02939?style=for-the-badge&logo=c&logoColor=white) |
+| **GenAI & LLMs** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Anthropic](https://img.shields.io/badge/Anthropic-D96638?style=for-the-badge&logo=anthropic&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![Llama](https://img.shields.io/badge/Llama_3-040E53?style=for-the-badge&logo=meta&logoColor=white) |
+| **Orchestration** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-050505?style=for-the-badge&logo=llamaindex&logoColor=white) ![CrewAI](https://img.shields.io/badge/CrewAI-FF4F00?style=for-the-badge&logo=robot&logoColor=white) |
+| **Vector DBs** | ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white) ![Weaviate](https://img.shields.io/badge/Weaviate-FA0171?style=for-the-badge&logo=weaviate&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-D32F2F?style=for-the-badge&logo=qdrant&logoColor=white) |
+| **ML & Vision** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![CLIP](https://img.shields.io/badge/CLIP-Multimodal-blue?style=for-the-badge) |
+| **Embedded/HW** | ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![Semiconductors](https://img.shields.io/badge/Semiconductors-Silicon-grey?style=for-the-badge) |
 
-😻 Check out the first NFT collection I created: https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/4045275530580781624249591635340877388132161566876908568698983941338789052516
+---
 
-🤝 I’m looking for help with an encrypted wallet and a smart contract trading App
+### 🔭 What I Build
 
-👨‍💻 All of my projects are available here
+I architect scalable AI systems that solve complex information retrieval and automation challenges.
 
-📝 I regularly write articles on https://medium.com/@mudimbapascal
+#### 🤖 **Advanced RAG Systems**
+* **Architecting Pipelines:** Designing hybrid search systems combining dense (vector) and sparse (keyword) retrieval.
+* **Optimization:** Implementing query rewriting, metadata filtering, and Cross-Encoder reranking strategies.
+* **Infrastructure:** Managing high-throughput vector databases (Pinecone, Weaviate, Qdrant).
 
-💬 Ask me about Data Protection and Data Rights in Kenya, DAOs, Pandas, Matplotlib, OpenCV and Haar Cascades
+#### 🧠 **LLM Engineering & Fine-Tuning**
+* **Adaptation:** Applying PEFT techniques (**LoRA/QLoRA**) to fine-tune foundation models on domain-specific datasets.
+* **Embeddings:** Training and evaluating custom embedding models to improve semantic search relevance.
+* **Multimodal:** Integrating OCR and **CLIP** architectures for visual document understanding and text-image retrieval.
 
-📫 How to reach me mudimbapascal@gmail.com
+#### ⚡ **Agentic Workflows & Production**
+* **Orchestration:** Building reliable chains using **LangChain** and **LlamaIndex** with robust memory and tool abstractions.
+* **Agents:** Developing multi-agent collaboration systems using **AutoGen** and **CrewAI** for autonomous task execution.
+* **Evaluation:** Establishing "LLM-as-a-Judge" frameworks to measure hallucination rates and response fidelity.
 
-📄 Know about my experiences https://www.linkedin.com/in/pascal-ambogo-mudimba-383051113/
+#### 🔋 **Hardware Interest**
+* Exploring the intersection of **TinyML**, embedded systems, and semiconductor architecture.
+* Optimizing inference for edge devices.
 
-LANGUAGES AND TOOLS
+---
 
+### 📈 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Your Name's Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
+---
 
-[<img align="left" alt="Java" width="30px" src="https://www.r-project.org/logo/Rlogo.png" />]
-[<img align="left" alt="Java" width="30px" src="https://camo.githubusercontent.com/da7acacadecf91d6dc02efcd2be086bb6d78ddff19a1b7a0ab2755a6fda8b1e9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667" />]
-[<img align="left" alt="Java" width="30px" src="https://camo.githubusercontent.com/2e496d4bfc6f753ddca87b521ce95c88219f77800212ffa6d4401ad368c82170/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d6f726967696e616c2e737667" />]
-[<img align="left" alt="Java" width="30px" src="https://camo.githubusercontent.com/442c452cb73752bb1914ce03fce2017056d651a2099696b8594ddf5ccc74825e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667" />]
-[<img align="left" alt="Java" width="30px" src="https://camo.githubusercontent.com/85a3f21551aec9137fd7627cd9b4ce0f7cf844ab80f26e7f091cc3c39d117e2a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6761747362792f6761747362792d6f726967696e616c2e737667" />]
-[<img align="left" alt="Java" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" />]
-[<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/terminal-dark.svg" />]
-[<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />]
-[<img align="left" alt="Java" width="30px" src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" />]
-[<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />]
-[<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />]
-[<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />]
-[<img align="left" alt="Java" width="30px" src="https://camo.githubusercontent.com/3aa42ee93eafa8f736bac662e8ca536350dad790ba36f2f0cb1783aa2be42f6d/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6e6578746a732d322e737667" />]
-[<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />]
-[<img align="left" alt="Java" width="30px" src="https://camo.githubusercontent.com/5fa137d222dde7b69acd22c6572a065ce3656e6ffa1f5e88c1b5c7a935af3cc6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" />]
-[<img align="left" alt="Java" width="30px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3APython.svg&psig=AOvVaw1vrdupZ1tn4Qol6QCFmNW3&ust=1653479014536000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNiP38GM-PcCFQAAAAAdAAAAABAD" />]
- CONNECT WITH ME
+### 📫 Let's Connect
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  </p>
